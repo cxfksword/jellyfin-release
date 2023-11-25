@@ -6,7 +6,7 @@
     "overview": "jellyfin\u7535\u5f71\u5143\u6570\u636e\u63d2\u4ef6",
     "owner": "cxfksword",
     "category": "Metadata",
-    "imageUrl": "https://github.com/cxfksword/jellyfin-plugin-metashark/raw/main/doc/logo.png",
+    "imageUrl": "https://jellyfin-plugin-release.pages.dev/metashark/logo.png",
     "versions": [
       {
         "version": "1.7.4.0",
