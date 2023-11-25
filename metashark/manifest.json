@@ -12,9 +12,9 @@
         "version": "1.7.4.0",
         "changelog": "\u66f4\u65b0\u52a0\u901f\u57df",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.4/metashark_1.7.4.0.zip",
-        "checksum": "7c875004c972b13ec46f1e15a8c0932b",
-        "timestamp": "2023-11-24T16:49:16"
+        "sourceUrl": "https://jellyfin-plugin-release.pages.dev/metashark/metashark_1.7.4.0.zip",
+        "checksum": "fb31aeda6c4b8af3adafed7899e4e71e",
+        "timestamp": "2023-11-25T01:48:00"
       }
     ]
   }
