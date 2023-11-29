@@ -9,12 +9,12 @@
     "imageUrl": "https://jellyfin-plugin-release.pages.dev/danmu/logo.png",
     "versions": [
       {
-        "version": "1.7.1.0",
-        "changelog": "\u66f4\u65b0\u52a0\u901f\u57df",
+        "version": "1.7.2.0",
+        "changelog": "\u4fee\u590diqiyi\u63a5\u53e3",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://jellyfin-plugin-release.pages.dev/danmu/danmu_1.7.1.0.zip",
-        "checksum": "9bfe30ee6d84aa1b0e59d6ceac32b05d",
-        "timestamp": "2023-11-25T02:08:41"
+        "sourceUrl": "https://jellyfin-plugin-release.pages.dev/danmu/danmu_1.7.2.0.zip",
+        "checksum": "3f18627bfe6193f3cebd8be84f521d3d",
+        "timestamp": "2023-11-29T07:14:10"
       }
     ]
   }
