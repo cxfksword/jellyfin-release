@@ -13,8 +13,8 @@
         "changelog": "\u66f4\u6362\u56fd\u5185\u52a0\u901f\u57df\u4e3a:gh-proxy.com. close #51",
         "targetAbi": "10.8.0.0",
         "sourceUrl": "https://jellyfin-plugin-release.pages.dev/metashark/metashark_1.7.3.0.zip",
-        "checksum": "8586342c0c30ee143552616ebdafea16",
-        "timestamp": "2023-12-02T08:09:25"
+        "checksum": "7d667a2159cf7f1374cbc99def04082b",
+        "timestamp": "2023-12-02T08:13:21"
       },
       {
         "version": "1.7.4.0",
