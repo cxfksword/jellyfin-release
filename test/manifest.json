@@ -9,12 +9,12 @@
     "imageUrl": "https://jellyfin-plugin-release.pages.dev/metashark/logo.png",
     "versions": [
       {
-        "version": "1.7.3.0",
-        "changelog": "\u66f4\u6362\u56fd\u5185\u52a0\u901f\u57df\u4e3a:gh-proxy.com. close #51",
+        "version": "1.7.4.0",
+        "changelog": "\u66f4\u65b0\u52a0\u901f\u57df",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://jellyfin-plugin-release.pages.dev/metashark/metashark_1.7.3.0.zip",
-        "checksum": "7d667a2159cf7f1374cbc99def04082b",
-        "timestamp": "2023-12-02T08:13:21"
+        "sourceUrl": "https://jellyfin-plugin-release.pages.dev/metashark/metashark_1.7.4.0.zip",
+        "checksum": "84390ed9388651e025fc904d725b6210",
+        "timestamp": "2023-12-02T08:18:04"
       },
       {
         "version": "1.7.4.0",
