@@ -13,16 +13,8 @@
         "changelog": "\u66f4\u65b0\u52a0\u901f\u57df",
         "targetAbi": "10.8.0.0",
         "sourceUrl": "https://jellyfin-plugin-release.pages.dev/metashark/metashark_1.7.4.0.zip",
-        "checksum": "84390ed9388651e025fc904d725b6210",
-        "timestamp": "2023-12-02T08:18:04"
-      },
-      {
-        "version": "1.7.4.0",
-        "changelog": "\u66f4\u65b0\u52a0\u901f\u57df",
-        "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://jellyfin-plugin-release.pages.dev/metashark/metashark_1.7.4.0.zip",
-        "checksum": "fb31aeda6c4b8af3adafed7899e4e71e",
-        "timestamp": "2023-11-25T01:48:00"
+        "checksum": "1eef6debc7c8d43a08db4f23a53c6db2",
+        "timestamp": "2023-12-02T08:31:19"
       }
     ]
   }
