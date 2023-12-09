@@ -9,6 +9,14 @@
     "imageUrl": "https://jellyfin-plugin-release.pages.dev/metashark/logo.png",
     "versions": [
       {
+        "version": "1.7.5.0",
+        "changelog": "\u4f18\u5316\u641c\u7d22\u5339\u914d",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "https://jellyfin-plugin-release.pages.dev/metashark/metashark_1.7.5.0.zip",
+        "checksum": "39f2e4a77d11b80a1d5edcbbfe735ec7",
+        "timestamp": "2023-12-09T10:12:55"
+      },
+      {
         "version": "1.7.4.0",
         "changelog": "\u66f4\u65b0\u52a0\u901f\u57df",
         "targetAbi": "10.8.0.0",
